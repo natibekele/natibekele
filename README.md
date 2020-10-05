@@ -17,12 +17,19 @@ I'm Nathan
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;&nbsp;
+- ReactJS
+- TornadoFx
+-Thymeleaf
 
 #### Back end
 - Kotlin
 - Python
 - Java 
 - Little Experience with Ruby-on-Rails
+
+#### Mobile Development
+- React Native 
+- Android w/ Java & Kotlin
 
 
 
