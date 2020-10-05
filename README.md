@@ -19,7 +19,7 @@ I'm Nathan
 <img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;&nbsp;
 - ReactJS
 - TornadoFx
--Thymeleaf
+- Thymeleaf
 
 #### Back end
 - Kotlin
