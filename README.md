@@ -21,6 +21,7 @@ I'm Nathan
 
 ![javascript-badge](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![styled-components-badge](https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
+![gatsby-badge](https://img.shields.io/badge/Gatsby%20-%23362066.svg?&style=for-the-badge&logo=gatsby&logoColor=white)
 
 ![tornado-fx](https://img.shields.io/badge/TornadoFX-%23000000.svg?&style=for-the-badge)
 ![thymeleaf-badge](https://img.shields.io/badge/Thymeleaf-%234D7306.svg?&style=for-the-badge)
