@@ -5,7 +5,7 @@ I'm Nathan
 
 <a href="https://twitter.com/natiboi__"> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/nathan-shanko-5330b4a8/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-![my-webiste](https://img.shields.io/badge/My_Portfolio-000000?&style=for-the-badge)
+![[](https://img.shields.io/badge/My_Portfolio-000000?&style=for-the-badge)](https://shanko.dev) 
 
 - I'm currently doing contract work on variety of different projects
 - :book: I'm currently learning how to use Python in different spaces, outside of just the web and django
