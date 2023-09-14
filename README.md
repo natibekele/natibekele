@@ -15,6 +15,10 @@ I'm Nathan
 
 #### Front end
 
+![svelte-badge](https://img.shields.io/badge/Svelte-%23F04A00.svg?&style=for-the-badge&logo=svelte&logoColor=white)
+![three-js-badge](https://img.shields.io/badge/ThreeJS-%23000000.svg?&style=for-the-badge&logo=three.js&logoColor=white)
+![nextjs-badge](https://img.shields.io/badge/Next-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
+
 ![react-badge](https://img.shields.io/badge/react-%2361DBFB.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![html-badge](https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css-badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -24,7 +28,7 @@ I'm Nathan
 ![gatsby-badge](https://img.shields.io/badge/Gatsby%20-%23362066.svg?&style=for-the-badge&logo=gatsby&logoColor=white)
 
 ![tornado-fx](https://img.shields.io/badge/TornadoFX-%23000000.svg?&style=for-the-badge)
-![thymeleaf-badge](https://img.shields.io/badge/Thymeleaf-%234D7306.svg?&style=for-the-badge)
+![thymeleaf-badge](https://img.shields.io/badge/Thymeleaf-%234D7306.svg?&style=for-the-badge&logo=thymeleaf)
 ![wordpress-badge](https://img.shields.io/badge/wordpress-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white)
 
 
